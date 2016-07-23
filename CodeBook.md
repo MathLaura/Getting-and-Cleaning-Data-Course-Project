@@ -19,6 +19,8 @@ The captured variables from data collected from accelerometers and gyroscopes on
 * fBodyAccJerkMag
 * fBodyGyroMag
 * fBodyGyroJerkMag
+ 
+
 For each of these collections of data, the following were computed:
 * mean(): Mean value
 * std(): Standard deviation
